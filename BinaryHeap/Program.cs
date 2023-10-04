@@ -92,9 +92,9 @@ public class MinHeap
     }
 }
 
-class Program
+class TempProgram
 {
-    public static void Main(string[] args)
+    public static void NoMain(string[] args)
     {
         MinHeap minHeap = new MinHeap(10);
 
